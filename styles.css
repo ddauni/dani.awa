@@ -1,0 +1,52 @@
+h1 {
+    color: #ffffff;
+}
+
+
+#daniawawa{
+    color:#ffffff;
+    margin: 30px;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+
+#about_me{
+    color:#ffffff;
+    margin: 30px;
+    font-size: 30px;
+    font-family: Pixelify Sans;
+}
+
+
+body{
+    margin: 30px;
+}
+
+
+#box1{
+    height: 75px;
+    width: 750px;
+    padding: 10px;
+    margin: 30px;
+    background-color:#5e4e5d;
+}
+
+#box2{
+    height: 75px;
+    width: 215px;
+    padding: 10px;
+    margin: 30px;
+    background-color:#5e4e5d;
+}
+
+#box3{
+    height: 900px;
+    width: 1200px;
+    padding: 10px;
+    margin: 30px;
+    background-color:#5e4e5d;
+}
+
+#my{
+    zoom: 75%;
+    }
