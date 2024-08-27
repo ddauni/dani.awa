@@ -17,6 +17,12 @@ h1 {
     font-family: Pixelify Sans;
 }
 
+#last_updated{
+    color:#ffffff;
+    margin: 30px;
+    font-size: 30px;
+    font-family: Pixelify Sans;
+}
 
 body{
     margin: 30px;
